@@ -1,0 +1,6 @@
+#request
+sensor_msgs/Image image
+---
+#response
+sensor_msgs/Image materials
+sensor_msgs/Image friction
