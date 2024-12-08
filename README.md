@@ -26,7 +26,7 @@ points to the correct path for caffe-segnet.
 
 ### Data
 
-Download the network weights from [here](http://extra.martimbrandao.com/dl.php?id=114) and place them under the folder "data".
+Download the network weights from [here](https://drive.google.com/file/d/1DC4B5MNsGpq-z5GBkVagBIxl38Kvfh98/view?usp=drive_link) and place them under the folder "data".
 
 ### Usage (standalone)
 
